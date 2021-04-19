@@ -1,0 +1,31 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "783333bd-3e46-455e-a722-7ccafaf48d0d",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "CRM Monitoring Tables",
+      "description": ""
+    },
+    "rank": 166.25,
+    "thumbnail": {
+      "qStaticContentUrlDef": {
+        "qUrl": "/appcontent/06e648bc-62ce-42e0-9654-43ed518bbc1f/BLUE ICON.png"
+      }
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": []
+}
